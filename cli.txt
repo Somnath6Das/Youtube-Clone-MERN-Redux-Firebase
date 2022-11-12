@@ -1,0 +1,19 @@
+1. Server
+
+i)   npm init
+ii)  npm install express nodemon mongoose
+iii) npm install dotenv
+iv)  npm install bcryptjs
+v)   npm install jsonwebtoken
+vi)  npm install cookie-parser
+
+
+
+
+2. client
+
+i)      Clone React Ui ->    git clone --single-branch --branch "react-video-ui" https://github.com/safak/youtube2022.git .
+ii)     npm i
+iii)    npm i axios
+iv)     //write port link in package.json
+v)      npm i proxy
