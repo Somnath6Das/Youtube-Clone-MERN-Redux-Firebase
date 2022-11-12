@@ -27,7 +27,7 @@ useEffect(()=> {
   return (
     <Container>
       {videos.map((video) => (
-        <Card />
+        <Card key={video._id} video={video}/>
         ))}    
     </Container>
   );
@@ -35,4 +35,4 @@ useEffect(()=> {
 
 export default Home;
 
-// 1:46:40
+// 1:51:34
