@@ -18,3 +18,5 @@ iii)    npm i axios
 iv)     //write port link in package.json
 v)      npm i proxy
 vi)     npm i timeago.js
+vii)    npm install @reduxjs/toolkit react-redux
+viii)   // material icon https://mui.com/material-ui/material-icons/
