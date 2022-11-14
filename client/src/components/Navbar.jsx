@@ -63,10 +63,10 @@ const User = styled.div`
   font-weight: 500;
   color: ${({ theme }) => theme.text};
 `;
-const Avatar = styled.div`
+const Avatar = styled.img`
   width: 32px;
   height: 32px;
-  border-radius: 50%
+  border-radius: 50%;
   background-color: #999;
 `;
 
